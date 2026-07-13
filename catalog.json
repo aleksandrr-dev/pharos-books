@@ -1074,7 +1074,10 @@
   "sourceUrl": "http://az.lib.ru/k/karamzin_n_m/text_0040.shtml",
   "license": "Public domain",
   "accent": "#3E4E6B",
-  "blurb": "The twelve-volume classic that taught Russia its own past. Volume I of 12, main text (Karamzin's notes were never digitized). In Russian — no complete English translation has ever been made.",
+  "series": "karamzin",
+  "seriesTitle": "История государства Российского",
+  "seriesIndex": 1,
+  "blurb": "Karamzin taught Russia its own past: the twelve-volume national epic, from Rurik to the Time of Troubles. In Russian — no complete English translation has ever been made (Karamzin's notes were never digitized).",
   "words": 46350,
   "chapterCount": 11,
   "chapterWords": [
@@ -1090,7 +1093,7 @@
    5519,
    3610
   ],
-  "bytes": 588970
+  "bytes": 589103
  },
  {
   "id": "karamzin-2",
@@ -1103,7 +1106,10 @@
   "sourceUrl": "http://az.lib.ru/k/karamzin_n_m/text_0050.shtml",
   "license": "Public domain",
   "accent": "#3E4E6B",
-  "blurb": "The twelve-volume classic that taught Russia its own past. Volume II of 12, main text (Karamzin's notes were never digitized). In Russian — no complete English translation has ever been made.",
+  "series": "karamzin",
+  "seriesTitle": "История государства Российского",
+  "seriesIndex": 2,
+  "blurb": "Karamzin taught Russia its own past: the twelve-volume national epic, from Rurik to the Time of Troubles. In Russian — no complete English translation has ever been made (Karamzin's notes were never digitized).",
   "words": 52911,
   "chapterCount": 15,
   "chapterWords": [
@@ -1123,7 +1129,7 @@
    3235,
    1367
   ],
-  "bytes": 672591
+  "bytes": 672723
  },
  {
   "id": "karamzin-3",
@@ -1136,7 +1142,10 @@
   "sourceUrl": "http://az.lib.ru/k/karamzin_n_m/text_0060.shtml",
   "license": "Public domain",
   "accent": "#3E4E6B",
-  "blurb": "The twelve-volume classic that taught Russia its own past. Volume III of 12, main text (Karamzin's notes were never digitized). In Russian — no complete English translation has ever been made.",
+  "series": "karamzin",
+  "seriesTitle": "История государства Российского",
+  "seriesIndex": 3,
+  "blurb": "Karamzin taught Russia its own past: the twelve-volume national epic, from Rurik to the Time of Troubles. In Russian — no complete English translation has ever been made (Karamzin's notes were never digitized).",
   "words": 47607,
   "chapterCount": 8,
   "chapterWords": [
@@ -1149,7 +1158,7 @@
    5084,
    10541
   ],
-  "bytes": 611109
+  "bytes": 611240
  },
  {
   "id": "karamzin-4",
@@ -1162,7 +1171,10 @@
   "sourceUrl": "http://az.lib.ru/k/karamzin_n_m/text_1040.shtml",
   "license": "Public domain",
   "accent": "#3E4E6B",
-  "blurb": "The twelve-volume classic that taught Russia its own past. Volume IV of 12, main text (Karamzin's notes were never digitized). In Russian — no complete English translation has ever been made.",
+  "series": "karamzin",
+  "seriesTitle": "История государства Российского",
+  "seriesIndex": 4,
+  "blurb": "Karamzin taught Russia its own past: the twelve-volume national epic, from Rurik to the Time of Troubles. In Russian — no complete English translation has ever been made (Karamzin's notes were never digitized).",
   "words": 49905,
   "chapterCount": 12,
   "chapterWords": [
@@ -1179,7 +1191,7 @@
    2192,
    975
   ],
-  "bytes": 633574
+  "bytes": 633706
  },
  {
   "id": "karamzin-5",
@@ -1192,7 +1204,10 @@
   "sourceUrl": "http://az.lib.ru/k/karamzin_n_m/text_1050.shtml",
   "license": "Public domain",
   "accent": "#3E4E6B",
-  "blurb": "The twelve-volume classic that taught Russia its own past. Volume V of 12, main text (Karamzin's notes were never digitized). In Russian — no complete English translation has ever been made.",
+  "series": "karamzin",
+  "seriesTitle": "История государства Российского",
+  "seriesIndex": 5,
+  "blurb": "Karamzin taught Russia its own past: the twelve-volume national epic, from Rurik to the Time of Troubles. In Russian — no complete English translation has ever been made (Karamzin's notes were never digitized).",
   "words": 68056,
   "chapterCount": 4,
   "chapterWords": [
@@ -1201,7 +1216,7 @@
    20956,
    7612
   ],
-  "bytes": 866059
+  "bytes": 866192
  },
  {
   "id": "karamzin-6",
@@ -1214,7 +1229,10 @@
   "sourceUrl": "http://az.lib.ru/k/karamzin_n_m/text_1060.shtml",
   "license": "Public domain",
   "accent": "#3E4E6B",
-  "blurb": "The twelve-volume classic that taught Russia its own past. Volume VI of 12, main text (Karamzin's notes were never digitized). In Russian — no complete English translation has ever been made.",
+  "series": "karamzin",
+  "seriesTitle": "История государства Российского",
+  "seriesIndex": 6,
+  "blurb": "Karamzin taught Russia its own past: the twelve-volume national epic, from Rurik to the Time of Troubles. In Russian — no complete English translation has ever been made (Karamzin's notes were never digitized).",
   "words": 62003,
   "chapterCount": 7,
   "chapterWords": [
@@ -1226,7 +1244,7 @@
    10710,
    7131
   ],
-  "bytes": 779949
+  "bytes": 780081
  },
  {
   "id": "karamzin-7",
@@ -1239,7 +1257,10 @@
   "sourceUrl": "http://az.lib.ru/k/karamzin_n_m/text_1070.shtml",
   "license": "Public domain",
   "accent": "#3E4E6B",
-  "blurb": "The twelve-volume classic that taught Russia its own past. Volume VII of 12, main text (Karamzin's notes were never digitized). In Russian — no complete English translation has ever been made.",
+  "series": "karamzin",
+  "seriesTitle": "История государства Российского",
+  "seriesIndex": 7,
+  "blurb": "Karamzin taught Russia its own past: the twelve-volume national epic, from Rurik to the Time of Troubles. In Russian — no complete English translation has ever been made (Karamzin's notes were never digitized).",
   "words": 38721,
   "chapterCount": 4,
   "chapterWords": [
@@ -1248,7 +1269,7 @@
    13510,
    6120
   ],
-  "bytes": 486537
+  "bytes": 486668
  },
  {
   "id": "karamzin-8",
@@ -1261,7 +1282,10 @@
   "sourceUrl": "http://az.lib.ru/k/karamzin_n_m/text_1080.shtml",
   "license": "Public domain",
   "accent": "#3E4E6B",
-  "blurb": "The twelve-volume classic that taught Russia its own past. Volume VIII of 12, main text (Karamzin's notes were never digitized). In Russian — no complete English translation has ever been made.",
+  "series": "karamzin",
+  "seriesTitle": "История государства Российского",
+  "seriesIndex": 8,
+  "blurb": "Karamzin taught Russia its own past: the twelve-volume national epic, from Rurik to the Time of Troubles. In Russian — no complete English translation has ever been made (Karamzin's notes were never digitized).",
   "words": 53174,
   "chapterCount": 5,
   "chapterWords": [
@@ -1271,7 +1295,7 @@
    11143,
    19422
   ],
-  "bytes": 660923
+  "bytes": 661053
  },
  {
   "id": "karamzin-9",
@@ -1284,7 +1308,10 @@
   "sourceUrl": "http://az.lib.ru/k/karamzin_n_m/text_1090.shtml",
   "license": "Public domain",
   "accent": "#3E4E6B",
-  "blurb": "The twelve-volume classic that taught Russia its own past. Volume IX of 12, main text (Karamzin's notes were never digitized). In Russian — no complete English translation has ever been made.",
+  "series": "karamzin",
+  "seriesTitle": "История государства Российского",
+  "seriesIndex": 9,
+  "blurb": "Karamzin taught Russia its own past: the twelve-volume national epic, from Rurik to the Time of Troubles. In Russian — no complete English translation has ever been made (Karamzin's notes were never digitized).",
   "words": 80380,
   "chapterCount": 7,
   "chapterWords": [
@@ -1296,7 +1323,7 @@
    7133,
    10344
   ],
-  "bytes": 997394
+  "bytes": 997526
  },
  {
   "id": "karamzin-10",
@@ -1309,7 +1336,10 @@
   "sourceUrl": "http://az.lib.ru/k/karamzin_n_m/text_1100.shtml",
   "license": "Public domain",
   "accent": "#3E4E6B",
-  "blurb": "The twelve-volume classic that taught Russia its own past. Volume X of 12, main text (Karamzin's notes were never digitized). In Russian — no complete English translation has ever been made.",
+  "series": "karamzin",
+  "seriesTitle": "История государства Российского",
+  "seriesIndex": 10,
+  "blurb": "Karamzin taught Russia its own past: the twelve-volume national epic, from Rurik to the Time of Troubles. In Russian — no complete English translation has ever been made (Karamzin's notes were never digitized).",
   "words": 46479,
   "chapterCount": 4,
   "chapterWords": [
@@ -1318,7 +1348,7 @@
    12265,
    8560
   ],
-  "bytes": 579530
+  "bytes": 579664
  },
  {
   "id": "karamzin-11",
@@ -1331,7 +1361,10 @@
   "sourceUrl": "http://az.lib.ru/k/karamzin_n_m/text_1110.shtml",
   "license": "Public domain",
   "accent": "#3E4E6B",
-  "blurb": "The twelve-volume classic that taught Russia its own past. Volume XI of 12, main text (Karamzin's notes were never digitized). In Russian — no complete English translation has ever been made.",
+  "series": "karamzin",
+  "seriesTitle": "История государства Российского",
+  "seriesIndex": 11,
+  "blurb": "Karamzin taught Russia its own past: the twelve-volume national epic, from Rurik to the Time of Troubles. In Russian — no complete English translation has ever been made (Karamzin's notes were never digitized).",
   "words": 52332,
   "chapterCount": 4,
   "chapterWords": [
@@ -1340,7 +1373,7 @@
    3696,
    19060
   ],
-  "bytes": 648990
+  "bytes": 649123
  },
  {
   "id": "karamzin-12",
@@ -1353,7 +1386,10 @@
   "sourceUrl": "http://az.lib.ru/k/karamzin_n_m/text_1120.shtml",
   "license": "Public domain",
   "accent": "#3E4E6B",
-  "blurb": "The twelve-volume classic that taught Russia its own past. Volume XII of 12, main text (Karamzin's notes were never digitized). In Russian — no complete English translation has ever been made.",
+  "series": "karamzin",
+  "seriesTitle": "История государства Российского",
+  "seriesIndex": 12,
+  "blurb": "Karamzin taught Russia its own past: the twelve-volume national epic, from Rurik to the Time of Troubles. In Russian — no complete English translation has ever been made (Karamzin's notes were never digitized).",
   "words": 55551,
   "chapterCount": 5,
   "chapterWords": [
@@ -1363,6 +1399,6 @@
    14401,
    6204
   ],
-  "bytes": 698754
+  "bytes": 698886
  }
 ]
